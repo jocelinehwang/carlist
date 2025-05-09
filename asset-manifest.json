@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/carlist/static/css/main.1a74e440.css",
+    "main.js": "/carlist/static/js/main.b52627f1.js",
+    "static/js/453.3d62c29a.chunk.js": "/carlist/static/js/453.3d62c29a.chunk.js",
+    "static/media/car12.png": "/carlist/static/media/car12.e81b0f9d0cf3b07b374c.png",
+    "static/media/car7.png": "/carlist/static/media/car7.16456481ab27632b8df5.png",
+    "static/media/car6.jpg": "/carlist/static/media/car6.b8b0afcc567a85f630e3.jpg",
+    "static/media/car10.png": "/carlist/static/media/car10.008e4a88bad5819732bb.png",
+    "static/media/car8.png": "/carlist/static/media/car8.b54e685c23318754c80e.png",
+    "static/media/car5.jpg": "/carlist/static/media/car5.4e5a5fff1e4a73182917.jpg",
+    "static/media/car1.png": "/carlist/static/media/car1.062d94ac78539a90e241.png",
+    "static/media/car2.jpg": "/carlist/static/media/car2.63c6751685a0543562e8.jpg",
+    "static/media/car4.jpg": "/carlist/static/media/car4.2ee253bb860fd4472d72.jpg",
+    "static/media/car9.jpg": "/carlist/static/media/car9.2679b26f24621256bce1.jpg",
+    "static/media/car11.jpg": "/carlist/static/media/car11.33c3a67390ce022e1442.jpg",
+    "static/media/car3.jpg": "/carlist/static/media/car3.13d9fff6c54a3a66f33a.jpg",
+    "index.html": "/carlist/index.html",
+    "main.1a74e440.css.map": "/carlist/static/css/main.1a74e440.css.map",
+    "main.b52627f1.js.map": "/carlist/static/js/main.b52627f1.js.map",
+    "453.3d62c29a.chunk.js.map": "/carlist/static/js/453.3d62c29a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a74e440.css",
+    "static/js/main.b52627f1.js"
+  ]
+}
